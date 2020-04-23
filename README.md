@@ -6,5 +6,8 @@
 4. Login in Heroku CLI: `heroku login`
 5. Create new project: `heroku create`
 6. Create Git repository
+7. Add Heroku remote repository: `heroku git:remote -a <project name>`
+8. Push changes: `git push heroku master`
+9. Open project: `heroku open`
 
 [Heroku Dashboard](https://dashboard.heroku.com/apps)
